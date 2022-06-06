@@ -1,4 +1,3 @@
 - 👋 Hi, I’m bond@aspecta.ai ✨
 - 👀 I’m interested in React/Vue/Angular/Laravel
 - 🌱 I’m currently learning ML/OCR
-- 📫 How to reach me bond@aspecta.ai
