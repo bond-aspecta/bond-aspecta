@@ -9,4 +9,9 @@
 
 ### We can embed video directly
 
-[!demo video](https://play.linwise.com/test.mp4)
+https://play.linwise.com/test.mp4
+
+
+
+
+https://user-images.githubusercontent.com/106575310/177108334-aeb3e5bc-4aca-4ad2-b847-8a3ccd37aee1.mp4
